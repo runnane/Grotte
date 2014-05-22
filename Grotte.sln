@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grotte", "Grotte\Grotte\Grotte.csproj", "{3A359892-3B12-4E6C-9462-9578E8CA9E7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrotteContent", "Grotte\GrotteContent\GrotteContent.contentproj", "{0CD4DC1D-68A5-479C-ABE9-4B5A534514BA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://runnane.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Grotte\\Grotte\\Grotte.csproj
+		SccProjectName1 = Grotte/Grotte
+		SccLocalPath1 = Grotte\\Grotte
+		SccProjectUniqueName2 = Grotte\\GrotteContent\\GrotteContent.contentproj
+		SccProjectName2 = Grotte/GrotteContent
+		SccLocalPath2 = Grotte\\GrotteContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A359892-3B12-4E6C-9462-9578E8CA9E7B}.Debug|x86.ActiveCfg = Debug|x86
+		{3A359892-3B12-4E6C-9462-9578E8CA9E7B}.Debug|x86.Build.0 = Debug|x86
+		{3A359892-3B12-4E6C-9462-9578E8CA9E7B}.Release|x86.ActiveCfg = Release|x86
+		{3A359892-3B12-4E6C-9462-9578E8CA9E7B}.Release|x86.Build.0 = Release|x86
+		{0CD4DC1D-68A5-479C-ABE9-4B5A534514BA}.Debug|x86.ActiveCfg = Debug|x86
+		{0CD4DC1D-68A5-479C-ABE9-4B5A534514BA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
